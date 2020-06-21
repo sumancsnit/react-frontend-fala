@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-frontend-fala/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-frontend-fala/static/js/main.73d85393.chunk.js",
+    "main.js.map": "/react-frontend-fala/static/js/main.73d85393.chunk.js.map",
+    "runtime-main.js": "/react-frontend-fala/static/js/runtime-main.85e5e84a.js",
+    "runtime-main.js.map": "/react-frontend-fala/static/js/runtime-main.85e5e84a.js.map",
+    "static/js/2.8a70e0d2.chunk.js": "/react-frontend-fala/static/js/2.8a70e0d2.chunk.js",
+    "static/js/2.8a70e0d2.chunk.js.map": "/react-frontend-fala/static/js/2.8a70e0d2.chunk.js.map",
+    "index.html": "/react-frontend-fala/index.html",
+    "precache-manifest.fa25199c5e7caaacf2c8c04f1c9dcb07.js": "/react-frontend-fala/precache-manifest.fa25199c5e7caaacf2c8c04f1c9dcb07.js",
+    "service-worker.js": "/react-frontend-fala/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-frontend-fala/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8a70e0d2.chunk.js.LICENSE.txt": "/react-frontend-fala/static/js/2.8a70e0d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85e5e84a.js",
+    "static/js/2.8a70e0d2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.73d85393.chunk.js"
+  ]
+}
